@@ -1,4 +1,4 @@
-package com.anatame.stemx.ui.theme
+package com.anatame.stemx.presentation.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes

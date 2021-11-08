@@ -1,4 +1,4 @@
-package com.anatame.stemx.ui.theme
+package com.anatame.stemx.presentation.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme
